@@ -1,0 +1,1 @@
+awk '{print $1/100*28.03/658.17, $2}' fft_20.out > fft_20_shift.dat
